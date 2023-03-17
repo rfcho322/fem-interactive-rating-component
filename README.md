@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor solution URL: [Interactive Rating Component Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-9oaxW5gDbM)
+- Live Site URL: [Interactive Rating Component Live Website](https://rfcho322.github.io/fem-interactive-rating-component/)
 
 ## My process
 
